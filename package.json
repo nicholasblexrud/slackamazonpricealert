@@ -1,0 +1,21 @@
+{
+  "name": "nitemare",
+  "version": "0.0.0",
+  "description": "just want to play around with nightmare node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightmare"
+  ],
+  "author": "Nick Blexrud",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.0.7",
+    "node-schedule": "^0.2.9",
+    "node-slack": "0.0.7",
+    "vo": "^1.0.3"
+  },
+  "devDependencies": {}
+}
